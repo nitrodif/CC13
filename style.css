@@ -1,0 +1,23 @@
+h1 {
+    color: seagreen;
+    font-family: sans-serif;
+    text-align: center;
+}
+.productName p{
+    color: firebrick;
+    font-size: larger;
+    font-family: sans-serif;
+}
+button:hover{
+    background-color: seagreen;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+.description p {
+    font-family: 'Times New Roman', Times, serif;
+}
+.Productprice p {
+    color: firebrick;
+    font-size: large;
+    font-family: sans-serif;
+}
